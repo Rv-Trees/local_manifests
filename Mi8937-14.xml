@@ -87,4 +87,6 @@
 
  <!-- Tiare - Kernel 4.19 -->
   <project path="device/xiaomi/Tiare_4_19" name="android_device_xiaomi_Tiare_4_19" groups="device" remote="mi-thorium" revision="a11/master"/>
+
+  <project path="kernel/xiaomi/mithorium-4.19/kernel" name="android_kernel_xiaomi_msm8937" remote="rvtrees" revision="wip" sync-s="true" />
 </manifest>
